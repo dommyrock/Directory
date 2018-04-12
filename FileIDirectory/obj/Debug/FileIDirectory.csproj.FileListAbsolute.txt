@@ -1,0 +1,5 @@
+D:\ASP1706\CSharp\Dan11\FileIDirectory\FileIDirectory\bin\Debug\FileIDirectory.exe.config
+D:\ASP1706\CSharp\Dan11\FileIDirectory\FileIDirectory\bin\Debug\FileIDirectory.exe
+D:\ASP1706\CSharp\Dan11\FileIDirectory\FileIDirectory\bin\Debug\FileIDirectory.pdb
+D:\ASP1706\CSharp\Dan11\FileIDirectory\FileIDirectory\obj\Debug\FileIDirectory.exe
+D:\ASP1706\CSharp\Dan11\FileIDirectory\FileIDirectory\obj\Debug\FileIDirectory.pdb
